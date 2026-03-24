@@ -1,1 +1,16 @@
-{"metadata":{"kernelspec":{"name":"ir","display_name":"R","language":"R"},"language_info":{"name":"R","codemirror_mode":"r","pygments_lexer":"r","mimetype":"text/x-r-source","file_extension":".r","version":"4.4.0"},"kaggle":{"accelerator":"none","dataSources":[],"dockerImageVersionId":31330,"isInternetEnabled":true,"language":"r","sourceType":"script","isGpuEnabled":false}},"nbformat_minor":4,"nbformat":4,"cells":[{"cell_type":"code","source":"---\ntitle: \"R Markdown Analysis\"\nauthor: \"R Coder\"\ndate: \"2026-03-24\"\noutput:\n  html_document:\n    number_sections: true\n    toc: true\n---\n\n# Introduktion\nDette er et R Markdown script.\n\n```{r setup, include=FALSE}\nlibrary(tidyverse)\n```","metadata":{"_uuid":"c5bee5c4-a098-42f1-ae70-fc46bfe6b263","_cell_guid":"2e086f69-5606-4b8f-a5c6-573a2278e2a9","trusted":true,"collapsed":false,"jupyter":{"outputs_hidden":false}},"outputs":[],"execution_count":null}]}
+---
+title: "R Markdown Analysis"
+author: "R Coder"
+date: "2026-03-24"
+output:
+  html_document:
+    number_sections: true
+    toc: true
+---
+
+# Introduktion
+Dette er et R Markdown script.
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
