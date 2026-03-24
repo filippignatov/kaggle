@@ -10,7 +10,7 @@ output:
 ---
 
 # 1. Introduktion
-Dette script er genereret til at demonstrere **R Markdown** workflowet på Kaggle-platformen. Formålet er at opnå "R Markdown Coder" badget gennem metodisk dokumentation og visualisering.
+Dette script er genereret til at demonstrere **R Markdown** workflowet på Kaggle-platformen. Formålet er at opnå analyse gennem metodisk dokumentation og visualisering.
 
 # 2. Opsætning og Biblioteker
 Her indlæser vi de nødvendige værktøjer. Vi bruger **tidyverse** til effektiv datamanipulation.
